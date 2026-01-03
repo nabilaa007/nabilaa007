@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nabila</h1>
 <h3 align="center">A Computer Science and Engineering Student from Bangladesh</h3>
 <p align="center">
-  <img src="assets/dogo.gif" width="250"/>
+  <img src="https://art.pixilart.com/sr2712ab0b35ecd.gif" width="250"/>
 </p>
 
 
@@ -21,7 +21,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
-<p align="center">
-  <img src="https://gifdb.com/images/high/matrix-code-cute-cat-kawaii-glitch-jvnrmrlrwq6sp5a0.gif" width="250"/>
-</p>
+
 <h4 align="center">"Faith Trust and a Little Bit of Pixie Dust"</h4>
